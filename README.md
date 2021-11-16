@@ -34,6 +34,13 @@
 
 >>DOCTYPE: permet de mentionner la version du langage HTML utilisée. Il est utilisé au début du document HTML, afin que les navegateurs peuvent le gérer avec les modes standarts du web. 
 
+>>HTML: HYPER TEXT MARKUP LANGUAGE, est le code utilisé pour structurer une page web et son contenu.
+
+>>L'élément de métadonnés (en_tête) <head>: fournit des informations générales titre et des liens des définitions vers des scripts et feuilles de style.
+  
+  
+>> Pourquoi est-il recommandé d'avoir les styles dans un fichier à part? C'est le moyen plus pratique d'ajouter un style CSS à le site web. De cette façon, toutes les modifications apportées à un fichier CSS externe seront visibles globalement sur votre site.
+
 
 
 

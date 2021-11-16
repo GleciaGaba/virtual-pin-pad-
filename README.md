@@ -16,8 +16,11 @@ Kanban: tableau visuel, outil pour réduire le temps de cycle d'un processus.
 
 Le intérêt de diviser le travail en petits morceaux est d'avancer de façon rapide et organisé, en identifiant nous priorités.
 
+Sketch
+<br>
+<img src:https://user-images.githubusercontent.com/45296020/141976470-a17ca932-ef1b-40a4-bcd3-b5cfd34a4f96.jpg width:250px>
 
-![maquette visual pin pad](https://user-images.githubusercontent.com/45296020/141976470-a17ca932-ef1b-40a4-bcd3-b5cfd34a4f96.jpg)
+
 
 
 

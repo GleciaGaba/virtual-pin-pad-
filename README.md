@@ -20,6 +20,9 @@ Sketch
 <br>
 <img src= https://user-images.githubusercontent.com/45296020/141976470-a17ca932-ef1b-40a4-bcd3-b5cfd34a4f96.jpg width=250px>
 
+Sketch: la définition du sketch pour notre maquette.
+
+
 
 
 

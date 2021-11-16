@@ -24,9 +24,9 @@
 >>Sketch: la définition du sketch pour notre maquette.
 
 
->>Maquette
+>>Wireframe ( fase intermédiaire entre le sketch et la maquette)
 
->>Maquette: utilisation d'un utile en-ligne pour la creation de notre WireFrame (MockFlow).
+>>Wireframe: utilisation d'un utile en-ligne pour la creation de notre, MockFlow.
 
 
 <img src= https://user-images.githubusercontent.com/45296020/141993769-2c8a8e96-bdf4-4472-a1ad-a362f8c4498f.png width=250px>

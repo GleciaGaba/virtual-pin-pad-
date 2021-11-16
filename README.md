@@ -22,6 +22,9 @@ Sketch
 
 Sketch: la définition du sketch pour notre maquette.
 
+Maquette: utilisation d'un utile en-ligne pour la creation de notre WireFrame (MockFlow). 
+
+
 
 
 

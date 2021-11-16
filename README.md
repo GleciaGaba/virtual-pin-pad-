@@ -32,6 +32,12 @@
 <img src= https://user-images.githubusercontent.com/45296020/141993769-2c8a8e96-bdf4-4472-a1ad-a362f8c4498f.png width=250px>
 
 
+>>DOCTYPE: permet de mentionner la version du langage HTML utilisée. Il est utilisé au début du document HTML, afin que les navegateurs peuvent le gérer avec les modes standarts du web. 
+
+
+
+
+
 
 
 

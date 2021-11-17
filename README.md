@@ -40,7 +40,92 @@
   
   
 >> Pourquoi est-il recommandé d'avoir les styles dans un fichier à part? C'est le moyen plus pratique d'ajouter un style CSS à le site web. De cette façon, toutes les modifications apportées à un fichier CSS externe seront visibles globalement sur votre site.
+  
+  
+>> Modèle de boîtes CSS: "The basic box model" est un module CSS qui définit les boîtes rectangulaires (y compris leurs zones de remplissage (padding) et de marges).
+  
+>> Sélecteurs CSS: détermine les éléments HTML à cibler avec la regle CSS.
 
+>>Propriété CSS: spécifient le style des éléments HTML ciblés.
+  
+>>Liste des principaux liens utilisés pour s’aider à réaliser la maquette HTML/CSS:
+  http://tutorials.jenkov.com/css/css-properties-css-rules.html
+  https://developer.mozilla.org/fr/docs/Web/HTML
+  https://www.codecademy.com/learn
+  https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3
+
+  
+  
+  form {
+  width: 390px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 35px 25px;
+  text-align: center;
+  box-shadow: 0px 5px 5px -0px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+
+input[type="password"] {
+  padding: 0 40px;
+  border-radius: 5px;
+  width: 350px;
+  margin: auto;
+  border: 1px solid rgb(228, 220, 220);
+  outline: none;
+  font-size: 60px;
+  color: transparent;
+  text-shadow: 0 0 0 rgb(71, 71, 71);
+  text-align: center;
+}
+
+input:focus {
+  outline: none;
+}
+
+.pinButton {
+  border: none;
+  background: none;
+  font-size: 1.5em;
+  border-radius: 50%;
+  height: 60px;
+  font-weight: 550;
+  width: 60px;
+  color: transparent;
+  text-shadow: 0 0 0 rgb(102, 101, 101);
+  margin: 7px 20px;
+}
+
+.clear,
+.enter {
+  font-size: 1em !important;
+}
+
+.pinButton:hover {
+  box-shadow: #506ce8 0 0 1px 1px;
+}
+.pinButton:active {
+  background: #506ce8;
+  color: #fff;
+}
+
+.clear:hover {
+  box-shadow: #ff3c41 0 0 1px 1px;
+}
+
+.clear:active {
+  background: #ff3c41;
+  color: #fff;
+}
+
+.enter:hover {
+  box-shadow: #47cf73 0 0 1px 1px;
+}
+
+.enter:active {
+  background: #47cf73;
+  color: #fff;
+}
 
 
 
